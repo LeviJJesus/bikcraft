@@ -18,7 +18,7 @@ Este projeto é muito mais do que apenas código - é a concretização da minha
 
 ## Como Contribuir 🤝
 
-Sinta-se à vontade para contribuir, dar feedback ou relatar problemas! Sua participação é crucial para o aprimoramento contínuo deste projeto. Confira nosso [Guia de Contribuição](link-para-guia) para começar.
+Sinta-se à vontade para contribuir, dar feedback ou relatar problemas! Sua participação é crucial para o aprimoramento contínuo deste projeto.
 
 ## Inspire-se e Explore! 🌈
 
